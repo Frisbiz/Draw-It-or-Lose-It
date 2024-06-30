@@ -1,0 +1,23 @@
+-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+
+The Gaming Room client wanted a transition of their game "Draw It or Lose It" from an Android-only app to a web-based application that can be accessed on multiple platforms. They required a scalable, efficient, and secure software solution that would cater to a diverse user base across various devices while maintaining the essence of the original application.
+
+-What did you do particularly well in developing this documentation?
+
+In developing the documentation, I excelled at detailing the requirements and constraints, ensuring that the design addressed cross-platform compatibility, user interface responsiveness, multi-team support, unique identifiers, and image compatibility. I also provided comprehensive evaluations of different operating systems and platforms, which informed my recommendations.
+
+-What about the process of working through a design document did you find helpful when developing the code?
+
+Working through the design document helped in visualizing the system architecture and understanding the interaction between different components. This structured approach was instrumental in developing code that was aligned with the outlined specifications and user requirements.
+
+-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+If I were to revise one part of the document, it would be the System Architecture View. I would provide a more detailed description of the architecture, including diagrams and a logical topology, to give a clearer picture of how the components interact.
+
+-How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+
+User needs were interpreted through the requirements of cross-platform functionality, intuitive interface, seamless multiplayer support, and image handling. It's crucial to consider user needs to ensure the software is user-friendly, meets expectations, and provides value, thereby increasing user adoption and satisfaction.
+
+-How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+The approach to designing the software involved analyzing the requirements thoroughly, considering the constraints, and then creating a systematic plan for the architecture and components. In the future, I would use techniques such as UML diagrams for visual representation and adopt iterative design methods to refine the software progressively.
